@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+
+# IntelliJ
+.idea/
+
+# Build
+build/
+out/
+
+# Temporary
+*.tmp
