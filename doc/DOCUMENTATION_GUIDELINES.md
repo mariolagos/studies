@@ -128,6 +128,14 @@ A small, stable documentation set is easier to maintain and easier for users to 
 
 ---
 
+### Dokument Typography
+
+Use the default body font for descriptive text.
+
+Use a monospace font for filenames, directory names, configuration keys, command-line examples, code fragments, and placeholders such as <caseId>.
+
+---
+
 ## 3. Document Types
 
 ### README.md
